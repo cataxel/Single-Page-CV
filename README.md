@@ -33,7 +33,7 @@ The purpose of this project is to create a professional online CV that highlight
 ## URL
 
 You can view my online CV at the following URL:
-[http://yourwebsite.com/cv.html](https://cataxel.github.io/Single-Page-CV/CV.html)
+[https://cataxel.github.io/Single-Page-CV/CV.html](https://cataxel.github.io/Single-Page-CV/CV.html)
 
 ## Contact
 
