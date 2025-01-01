@@ -34,6 +34,7 @@ The purpose of this project is to create a professional online CV that highlight
 
 You can view my online CV at the following URL:
 [https://cataxel.github.io/Single-Page-CV/CV.html](https://cataxel.github.io/Single-Page-CV/CV.html)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## Contact
 
